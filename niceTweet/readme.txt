@@ -24,3 +24,7 @@ Follow
 Help
     nicetweet.exe ?
 
+Git code available at
+https://github.com/lancebeacroft/tweetTest.git
+
+

@@ -5,3 +5,10 @@ C:\Users\lance_000\Documents\Visual Studio 2013\Projects\tweetTest\niceTweet\obj
 C:\Users\lance_000\Documents\Visual Studio 2013\Projects\tweetTest\niceTweet\obj\Debug\niceTweet.exe
 C:\Users\lance_000\Documents\Visual Studio 2013\Projects\tweetTest\niceTweet\obj\Debug\niceTweet.pdb
 C:\Users\lance_000\Documents\Visual Studio 2013\Projects\tweetTest\niceTweet\bin\Debug\readme.txt
+C:\Users\lance_000\Documents\GitHub\NiceTweet\niceTweet\bin\Debug\niceTweet.exe.config
+C:\Users\lance_000\Documents\GitHub\NiceTweet\niceTweet\obj\Debug\niceTweet.exe
+C:\Users\lance_000\Documents\GitHub\NiceTweet\niceTweet\obj\Debug\niceTweet.pdb
+C:\Users\lance_000\Documents\GitHub\NiceTweet\niceTweet\bin\Debug\readme.txt
+C:\Users\lance_000\Documents\GitHub\NiceTweet\niceTweet\bin\Debug\niceTweet.exe
+C:\Users\lance_000\Documents\GitHub\NiceTweet\niceTweet\bin\Debug\niceTweet.pdb
+C:\Users\lance_000\Documents\GitHub\NiceTweet\niceTweet\obj\Debug\niceTweet.csprojResolveAssemblyReference.cache
